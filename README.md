@@ -8,7 +8,7 @@
 ## Project Description
 LiveWorkshopToken (LWT) is a custom ERC20 token built on the Ethereum blockchain. Designed to incentivize and reward participants in live workshops and other interactive learning events, LWT provides an easy way to distribute digital tokens as a form of recognition or currency for workshop hosts and attendees.
 
-## Contract Address: 0xfcEA31C01F3C87b47Fd8104cfEf5006D8FdE3B18S
+## Contract Address: 0xfcEA31C01F3C87b47Fd8104cfEf5006D8FdE3B18
 ![WhatsApp Image 2024-12-21 at 15 26 57_404d4c16 - Copy](https://github.com/user-attachments/assets/d8854717-e90e-4cd0-8456-208e56138927)
 ## Project Vision
 The vision of LiveWorkshopToken is to create an ecosystem where educators, workshop hosts, and participants can engage in a mutually rewarding experience. By leveraging blockchain technology, LWT aims to:
